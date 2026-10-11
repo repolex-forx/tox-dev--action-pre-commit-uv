@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/action-pre-commit-uv/commit/4de52c139ed1a6963bcc4c30042c4ef9d75d8b11",
       "git:hexsha": "4de52c139ed1a6963bcc4c30042c4ef9d75d8b11",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.1.0"
     },
     {
