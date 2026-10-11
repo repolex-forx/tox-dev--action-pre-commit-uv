@@ -1,0 +1,11 @@
+{
+  "org": "tox-dev",
+  "repo": "action-pre-commit-uv",
+  "versions": [
+    {
+      "commit": "4de52c139ed1a6963bcc4c30042c4ef9d75d8b11",
+      "tag": "v1",
+      "parsed_at": "2026-10-11T09:04:57.930887+00:00"
+    }
+  ]
+}
